@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Buffy Summers",
+    "occupation": "Slayer of Vampyrs",
+    "hometown": "Los Angeles",
+    "skills": "Slayage",
+    "id": 1630
+  },
+  {
+    "name": "Willow Rosenberg",
+    "occupation": "BA Witch",
+    "hometown": "Sunnydale",
+    "skills": "Magics",
+    "id": 213
+  },
+  {
+    "name": "Anya Jenkins",
+    "occupation": "Cashier",
+    "hometown": "Unknown",
+    "skills": "Making money",
+    "id": 860
+  },
+  {
+    "name": "Xander Harris",
+    "occupation": "Construction Worker",
+    "hometown": "Sunnydale",
+    "skills": "Magics",
+    "id": 22
+  },
+  {
+    "name": "Rupert Giles",
+    "occupation": "Librarian/Shop Owner",
+    "hometown": "England",
+    "skills": "Wiping his glasses",
+    "id": 1955
+  },
+  {
+    "name": "Daniel Osbourne",
+    "occupation": "Guitar Player",
+    "hometown": "Sunnydale",
+    "skills": "Magics",
+    "id": 40
+  },
+  {
+    "name": "William Pratt",
+    "occupation": "Terrible Poet",
+    "hometown": "England",
+    "skills": "Telling awful poetry",
+    "id": 1880
+  },
+  {
+    "name": "Cordelia Chase",
+    "occupation": "Actress",
+    "hometown": "Sunnydale",
+    "skills": "Shopping",
+    "id": 1999
+  }
+]
