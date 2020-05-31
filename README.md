@@ -8,7 +8,8 @@ This is an app created to hold employee information.  A user can search for a sp
 ## Getting Started
 
 Clone repository on local computer using GitBash or Terminal.
-```git clone https://github.com/KNanda625/YumBurgers.git```
+
+```git clone https://github.com/KNanda625/REACT-Employee-Directory.git```
 
 
 ## Installing
